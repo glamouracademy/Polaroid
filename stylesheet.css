@@ -1,0 +1,13 @@
+.container img {
+	height: 500px;
+	weight: 500px;
+}
+
+h3 {
+	text-align: center;
+}
+
+img {
+	height: 300px;
+	width: auto;
+}
