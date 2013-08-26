@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Third Image</title>
+		<title>Second Image</title>
 		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
 	</head>
 	<body>
-		<img src="images/SCN_0003.jpg"/>
+		<img src="images/SCN_0002.jpg"/>
 	</body>
 
 </html>
